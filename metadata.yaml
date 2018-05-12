@@ -1,0 +1,34 @@
+_repo: English-Lands-Letters-and-KingsQueen-Anne-and-the-Georges_37226
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Donald Grant
+    alias: Mitchell, Donald G. (Donald Grant)
+    birthdate: 1822
+    deathdate: 1908
+    gutenberg_agent_id: '7659'
+    url: http://www.gutenberg.org/2009/agents/7659
+    wikipedia: http://en.wikipedia.org/wiki/Donald_Grant_Mitchell
+description: ''
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37226'
+  lccn: 04013879
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Intellectual life'
+- !lcsh 'English literature -- History and criticism'
+tableOfContents: I. From Celt to Tudor -- II. From Elizabeth to Anne -- III. Queen
+  Anne and the Georges -- IV. The later Georges to Victoria.
+title: 'English Lands Letters and Kings
+
+  Queen Anne and the Georges'
+url: http://www.gutenberg.org/ebooks/37226
