@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7659
     wikipedia: http://en.wikipedia.org/wiki/Donald_Grant_Mitchell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37226#English-Lands-Letters-and-KingsQueen-Anne-and-the-Georges
 gutenberg_issued: '2011-08-27'
 gutenberg_type: Text
 identifiers:
